@@ -36,7 +36,7 @@ namespace Takrorlash
                 else {
                     System.Console.Write("Ma'lumot kiritishdagi xatolik. Qayta urunib ko'ring: ");
                     isContinue = true;
-                    x =Convert.ToInt32(Console.ReadLine());
+                    x = Convert.ToInt32(Console.ReadLine());
                 } 
             }while(isContinue);
 
