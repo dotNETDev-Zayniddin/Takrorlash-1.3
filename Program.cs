@@ -18,7 +18,6 @@ namespace Takrorlash
             {
                 result *= i;
             }
-
             System.Console.WriteLine("Natija: "  + result);
         }
     }
