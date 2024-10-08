@@ -4,7 +4,6 @@ x! (x factorial) ni hisoblaydigan dastur tuzing.
 
 */
 using System;
-using System.Collections.Concurrent;
 namespace Takrorlash
 {
     class Program
