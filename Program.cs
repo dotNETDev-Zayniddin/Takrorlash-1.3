@@ -17,7 +17,6 @@ namespace Takrorlash
             long result = 1;
 
             do{
-                
                 if( x > 0 )
                 { 
                     for(int i = 1; i <= x; i++)
